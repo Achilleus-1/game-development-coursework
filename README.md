@@ -4,9 +4,9 @@ Unity C# gameplay scripts for a procedural grid, a trench-run obstacle game, and
 
 ## Original coursework
 
-- CS 4423-01T — Game Development, Summer 2025
+- Game Development
 
-Originally completed at the University of Texas at San Antonio during the terms above and imported to GitHub later. This repository preserves the submitted implementation; repository documentation and import housekeeping were added separately.
+Originally completed at the University of Texas at San Antonio and imported to GitHub later. This repository retains the coursework implementation with documented maintenance fixes and demonstration assets.
 
 **Languages and technologies:** C#, Unity, Unity Input System.
 
@@ -38,3 +38,9 @@ These submissions contain scripts only. Import a prototype directory into a comp
 - Required generated C# input bindings are identified rather than counted as wholly handwritten code.
 
 Only source code, build configuration, and required text inputs are included. Written submissions, assignment instructions, PDFs, videos, generated outputs, binary builds, and private configuration are omitted. Anonymized contributor labels and supplied-code comments retain the distinction between submitted work and scaffolding. No license for course-provided material is inferred.
+
+## Development and reuse
+
+See [DEVELOPMENT.md](DEVELOPMENT.md) for reproducible checks and known archival dependencies, [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance, and [SECURITY.md](SECURITY.md) for private reports.
+
+Reuse terms and provenance are documented in [NOTICE.md](NOTICE.md) and [LICENSE](LICENSE). The maintenance license does not grant rights to original course or team material.
